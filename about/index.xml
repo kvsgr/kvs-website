@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I&#39;m a Freelance Interactive Art Director Based In France. Focusing Accross Branding And Identity on KVS</title>
-    <link>http://localhost:38441/kvs-website/about/</link>
+    <link>http://localhost:39135/kvs-website/about/</link>
     <description>Recent content in I&#39;m a Freelance Interactive Art Director Based In France. Focusing Accross Branding And Identity on KVS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>el-gr</language><atom:link href="http://localhost:38441/kvs-website/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>el-gr</language><atom:link href="http://localhost:39135/kvs-website/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
