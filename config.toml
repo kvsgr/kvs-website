@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://kvsgr.github.io/kvs-website"
+baseURL = "https://kvsgr.github.io/kvs-website/"
 title = "KVS"
 theme = "persian-hugo"
 languageName = "El"
@@ -88,3 +88,8 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.cookies]
 enable = true
 expire_days = 2
+
+[build]
+  publish = "public"
+  publishDir = "public"
+  
