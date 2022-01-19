@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>inspire on KVS</title>
-    <link>http://localhost:39135/kvs-website/categories/inspire/</link>
+    <link>http://localhost:43201/kvs-website/categories/inspire/</link>
     <description>Recent content in inspire on KVS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>el-gr</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="http://localhost:39135/kvs-website/categories/inspire/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="http://localhost:43201/kvs-website/categories/inspire/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Το quote της ημέρας!</title>
-      <link>http://localhost:39135/kvs-website/post/post-3/</link>
+      <link>http://localhost:43201/kvs-website/post/post-3/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://localhost:39135/kvs-website/post/post-3/</guid>
+      <guid>http://localhost:43201/kvs-website/post/post-3/</guid>
       <description>Απο το βιβλίο
 Απο το βιβλίο</description>
     </item>
     
     <item>
       <title>Το μήνυμα της ημέρας</title>
-      <link>http://localhost:39135/kvs-website/post/post-8/</link>
+      <link>http://localhost:43201/kvs-website/post/post-8/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://localhost:39135/kvs-website/post/post-8/</guid>
+      <guid>http://localhost:43201/kvs-website/post/post-8/</guid>
       <description>Απο το βιβλίο</description>
     </item>
     
