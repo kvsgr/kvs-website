@@ -1,0 +1,20 @@
+{
+  "name": "kvs-website",
+  "version": "1.0.0",
+  "description": "The main website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "hugo server -D --disableFastRender"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvsgr/kvs-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvsgr/kvs-website/issues"
+  },
+  "homepage": "https://github.com/kvsgr/kvs-website#readme"
+}
