@@ -2,37 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nature on KVS</title>
-    <link>http://localhost:43201/kvs-website/categories/nature/</link>
+    <link>https://kvsgr.github.io:12345/kvs-website/categories/nature/</link>
     <description>Recent content in nature on KVS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>el-gr</language>
-    <lastBuildDate>Sun, 12 Jan 2020 12:14:34 +0600</lastBuildDate><atom:link href="http://localhost:43201/kvs-website/categories/nature/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jan 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://kvsgr.github.io:12345/kvs-website/categories/nature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Το μήνυμα της ημέρας</title>
-      <link>http://localhost:43201/kvs-website/post/post-2/</link>
+      <link>https://kvsgr.github.io:12345/kvs-website/post/post-2/</link>
       <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
       
-      <guid>http://localhost:43201/kvs-website/post/post-2/</guid>
+      <guid>https://kvsgr.github.io:12345/kvs-website/post/post-2/</guid>
       <description>Απο το βιβλίο</description>
     </item>
     
     <item>
       <title>Το μήνυμα της ημέρας</title>
-      <link>http://localhost:43201/kvs-website/post/post-7/</link>
+      <link>https://kvsgr.github.io:12345/kvs-website/post/post-7/</link>
       <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
       
-      <guid>http://localhost:43201/kvs-website/post/post-7/</guid>
+      <guid>https://kvsgr.github.io:12345/kvs-website/post/post-7/</guid>
       <description>Απο το βιβλίο</description>
     </item>
     
     <item>
       <title>Το μήνυμα της ημέρας</title>
-      <link>http://localhost:43201/kvs-website/post/post-6/</link>
+      <link>https://kvsgr.github.io:12345/kvs-website/post/post-6/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://localhost:43201/kvs-website/post/post-6/</guid>
-      <description>![An Example image]/kvs-website(/images/post/1639215158276.jpeg)
-Απο το βιβλίο</description>
+      <guid>https://kvsgr.github.io:12345/kvs-website/post/post-6/</guid>
+      <description>Απο το βιβλίο</description>
     </item>
     
   </channel>
