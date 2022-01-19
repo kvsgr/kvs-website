@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KVS</title>
+    <link>http://localhost:39135/kvs-website/</link>
+    <description>Recent content on KVS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>el-gr</language>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="http://localhost:39135/kvs-website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Το μήνυμα της ημέρας</title>
+      <link>http://localhost:39135/kvs-website/post/post-1/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>http://localhost:39135/kvs-website/post/post-1/</guid>
+      <description>Απο το βιβλίο</description>
+    </item>
+    
+    <item>
+      <title>Το μήνυμα της ημέρας</title>
+      <link>http://localhost:39135/kvs-website/post/post-2/</link>
+      <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
+      
+      <guid>http://localhost:39135/kvs-website/post/post-2/</guid>
+      <description>Απο το βιβλίο</description>
+    </item>
+    
+    <item>
+      <title>Το μήνυμα της ημέρας</title>
+      <link>http://localhost:39135/kvs-website/post/post-7/</link>
+      <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
+      
+      <guid>http://localhost:39135/kvs-website/post/post-7/</guid>
+      <description>Απο το βιβλίο</description>
+    </item>
+    
+    <item>
+      <title>Το quote της ημέρας!</title>
+      <link>http://localhost:39135/kvs-website/post/post-3/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://localhost:39135/kvs-website/post/post-3/</guid>
+      <description>Απο το βιβλίο
+Απο το βιβλίο</description>
+    </item>
+    
+    <item>
+      <title>Το μήνυμα της ημέρας</title>
+      <link>http://localhost:39135/kvs-website/post/post-10/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://localhost:39135/kvs-website/post/post-10/</guid>
+      <description>Απο το βιβλίο</description>
+    </item>
+    
+    <item>
+      <title>Το μήνυμα της ημέρας</title>
+      <link>http://localhost:39135/kvs-website/post/post-4/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://localhost:39135/kvs-website/post/post-4/</guid>
+      <description>Απο το βιβλίο</description>
+    </item>
+    
+    <item>
+      <title>Το μήνυμα της ημέρας</title>
+      <link>http://localhost:39135/kvs-website/post/post-5/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://localhost:39135/kvs-website/post/post-5/</guid>
+      <description>Απο το βιβλίο</description>
+    </item>
+    
+    <item>
+      <title>Το μήνυμα της ημέρας</title>
+      <link>http://localhost:39135/kvs-website/post/post-6/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://localhost:39135/kvs-website/post/post-6/</guid>
+      <description>Απο το βιβλίο</description>
+    </item>
+    
+    <item>
+      <title>Το μήνυμα της ημέρας</title>
+      <link>http://localhost:39135/kvs-website/post/post-8/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://localhost:39135/kvs-website/post/post-8/</guid>
+      <description>Απο το βιβλίο</description>
+    </item>
+    
+    <item>
+      <title>Το μήνυμα της ημέρας</title>
+      <link>http://localhost:39135/kvs-website/post/post-9/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://localhost:39135/kvs-website/post/post-9/</guid>
+      <description>Απο το βιβλίο</description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>http://localhost:39135/kvs-website/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:39135/kvs-website/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.</description>
+    </item>
+    
+  </channel>
+</rss>
