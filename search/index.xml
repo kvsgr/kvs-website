@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search Results on KVS</title>
-    <link>https://kvsgr.github.io:12345/kvs-website/search/</link>
+    <link>https://kvsgr.github.io/kvs-website/search/</link>
     <description>Recent content in Search Results on KVS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>el-gr</language><atom:link href="https://kvsgr.github.io:12345/kvs-website/search/index.xml" rel="self" type="application/rss+xml" />
+    <language>el-gr</language><atom:link href="https://kvsgr.github.io/kvs-website/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
