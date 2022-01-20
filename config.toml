@@ -90,6 +90,6 @@ enable = true
 expire_days = 2
 
 [build]
-  publish = "docs"
-  publishDir = "docs"
+  publish = "public"
+  publishDir = "public"
   
