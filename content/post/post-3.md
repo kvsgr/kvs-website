@@ -11,6 +11,6 @@ draft: false
 
 Απο το βιβλίο
 
-![An Example image](/images/post/1638853967221.jpeg)
+![An Example image](/kvs-website/images/post/1638853967221.jpeg)
 
 Απο το βιβλίο

@@ -9,7 +9,7 @@ tags: ["tree", "nice"]
 draft: false
 ---
 
-![An Example image](/images/post/1638700644405.jpeg)
+![An Example image](/kvs-website/images/post/1638700644405.jpeg)
 
 
 Απο το βιβλίο

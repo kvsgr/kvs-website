@@ -9,7 +9,7 @@ tags: ["thumb", "video", "top"]
 draft: false
 ---
 
-![An Example image](/images/post/1639308932516.jpeg)
+![An Example image](/kvs-website/images/post/1639308932516.jpeg)
 
 
 Απο το βιβλίο

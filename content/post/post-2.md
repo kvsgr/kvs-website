@@ -10,7 +10,7 @@ draft: false
 ---
 
 
-![An Example image](/images/post/1638346705148.jpeg)
+![An Example image](/kvs-website/images/post/1638346705148.jpeg)
 
 
 Απο το βιβλίο

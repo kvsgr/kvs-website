@@ -9,6 +9,6 @@ tags: ["green", "tree"]
 draft: false
 ---
 
-![An Example image](/images/post/1639215158276.jpeg)
+![An Example image](/kvs-website/images/post/1639215158276.jpeg)
 
 Απο το βιβλίο

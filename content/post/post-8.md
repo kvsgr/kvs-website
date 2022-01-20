@@ -9,7 +9,7 @@ tags: ["new", "inspire", "nature"]
 draft: false
 ---
 
-![An Example image](/images/post/1639309004655.jpeg)
+![An Example image](/kvs-website/images/post/1639309004655.jpeg)
 
 
 Απο το βιβλίο

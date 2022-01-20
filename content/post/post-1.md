@@ -9,7 +9,7 @@ tags: ["green", "tree"]
 draft: false
 ---
 
-![An Example image](/images/post/1640064300389.jpeg)
+![An Example image](/kvs-website/images/post/1640064300389.jpeg)
 
 
 

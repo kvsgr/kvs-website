@@ -9,7 +9,7 @@ tags: ["book", "memo"]
 draft: false
 ---
 
-![An Example image](/images/post/1639462972737.jpeg)
+![An Example image](/kvs-website/images/post/1639462972737.jpeg)
 
 
 Απο το βιβλίο
